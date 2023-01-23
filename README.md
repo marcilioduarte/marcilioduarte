@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcilioduarte, I'm a economist by formation and currently I'm doing a specialization in Data Science & Analytics.
+- 👋 Hi, I’m @marcilioduarte, I'm a economist by formation and currently I'm doing a specialization in Data Science & Analytics and working as a Data Analyst.
 - 👀 As an economist, I’m interested in many topics in the economics fields, but the ones I like the most are the Economic Development and the Financial Market fields. 
      Nonetheless, in the field of Data Science & Analytics, besides the part of it applied to economics,
      I'm also interested in topics of the entertainment industry, such as the 
