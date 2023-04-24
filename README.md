@@ -6,6 +6,6 @@
 
 👀 Regarding my personal skills, I'm a very communicative and hard-working person. Never giving up, paying attention to details, and always trying new ways to solve problems are a big part of who I am as a professional.
 
-💞️ Furthermore, I'm interested in collaborating on various projects such as Economic Development and Financial Markets or Aviation, Soccer, and the Anime industry, to name a few.
+💞️ Furthermore, I'm interested in collaborating on various projects of many different study fields, such as Economic Development and Financial Markets or Aviation, Soccer, and the Anime industry, to name a few.
 
 📫 If you're interested in my work, please reach me at https://linkedin.com/in/marcilioduarte98.
