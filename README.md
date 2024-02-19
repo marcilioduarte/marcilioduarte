@@ -1,4 +1,6 @@
-# **👋 Hi, I’m Marcilio and here are a few things about me:**
+# **👋 Hi, I’m Marcilio...**
+
+and here are a few things about me:
 
 🧑‍🎓 I hold a degree in economics and I'm currently working as a Mid-Level Data Analyst while specializing in Data Science as a post-graduate student.
 
