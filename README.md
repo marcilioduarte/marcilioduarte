@@ -12,7 +12,7 @@ and here are a few things about me:
 
 - [ETL](https://github.com/marcilioduarte/portfolio-etl-automation)
 
-📊 In the realm of data visualization, one of my notable projects is the "Identidades Territoriais" dashboard which I developed (and manage as P.O.) at my job using Power BI [Identidades Territorias Dashboard](https://www.inteligencia-sebraemg.com.br/identidades-territoriais). This project showcases my skills in presenting complex data in an easily understandable format. Beyond Power BI, I have developed various other data visualization products. For example, you can check a "mvp type" project hosted on Heroku here: [New Report Product MVP](https://sebraemg-uine-adhoc01-5328a5782f7f.herokuapp.com/)
+📊 In the realm of data visualization, one of my notable projects is the "Identidades Territoriais" dashboard which I developed (and manage as P.O.) at my job using Power BI [Identidades Territorias Dashboard](https://www.inteligencia-sebraemg.com.br/identidades-territoriais). Beyond Power BI, I have developed various other data visualization products. For example, you can check a "MVP type" project hosted on Heroku here: [New Report Product MVP](https://sebraemg-uine-adhoc01-5328a5782f7f.herokuapp.com/)
 
 🔍 As for my data science projects, you can check my DS portfolio on Hugging Face, Kaggle and GitHub:
 
