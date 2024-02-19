@@ -24,22 +24,10 @@ These projects demonstrate my ability to handle complex data science tasks, from
 
 📫 If you're interested in my work or wish to collaborate, please reach me at https://linkedin.com/in/marcilioduarte98.
 
-## Meus principais repositórios:
-
-- [Data Science and Analytics Portfolio](https://github.com/marcilioduarte/portfolio-data-science-and-analytics/tree/main/completed)
-- [Web Automation Portfolio](https://github.com/marcilioduarte/portfolio-web-automation)
-- [ETL Automation Portfolio](https://github.com/marcilioduarte/portfolio-etl-automation)
-
 ## Stats:
 
 ![Seus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcilioduarte&show_icons=true) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilioduarte&layout=compact)
 
 ## Contatos:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/marcilioduarte98)](https://linkedin.com/in/marcilioduarte98)
-
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@marcilio.dfn)](https://medium.com/@marcilio.dfn)
-
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/marcilioduarte)](https://www.kaggle.com/marcilioduarte)
-
-[![Hugging Face Badge](https://img.shields.io/badge/-Hugging_Face-yellow?style=flat-square&logo=HuggingFace&logoColor=white&link=https://huggingface.co/marcilioduarte)](https://huggingface.co/marcilioduarte)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/marcilioduarte98)](https://linkedin.com/in/marcilioduarte98) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@marcilio.dfn)](https://medium.com/@marcilio.dfn) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/marcilioduarte)](https://www.kaggle.com/marcilioduarte) [![Hugging Face Badge](https://img.shields.io/badge/-Hugging_Face-yellow?style=flat-square&logo=HuggingFace&logoColor=white&link=https://huggingface.co/marcilioduarte)](https://huggingface.co/marcilioduarte)
