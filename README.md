@@ -28,14 +28,13 @@ These projects demonstrate my ability to handle complex data science tasks, from
 - [Web Automation Portfolio](https://github.com/marcilioduarte/portfolio-web-automation) - Automação web e bots de scraping.
 - [ETL Automation Portfolio](https://github.com/marcilioduarte/portfolio-etl-automation) - Automação de processos ETL.
 
-
 ## Stats:
 
 ![Seus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcilioduarte&show_icons=true)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilioduarte&layout=compact)
 
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=marcilioduarte)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=marcilioduarte.marcilioduarte)
 
 ## Contatos:
 
