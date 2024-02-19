@@ -8,7 +8,7 @@ and here are a few things about me:
 
 🧑‍🎓 I hold a degree in economics and I'm currently working as a Mid-Level Data Analyst while specializing in Data Science as a post-graduate student.
 
-👨🏾‍💻 Although I'm a Data Analyst/Scientist, my professional and academic experiences have provided me with a rich background in data engineering tasks. I have substantial expertise in extracting data via APIs, SQL, and in developing data pipelines for ETL processes. I frequently work with databases like MongoDB and Dbeaver (PostgreSQL) to create comprehensive star schemas, including stages, data marts, and fact tables. My preferred tools for these ETL processes are Python and Pentaho. Check this repository for an example: 
+👨🏾‍💻 Although I'm a Data Analyst/Scientist, my professional and academic experiences have provided me with a rich background in data engineering tasks. I have substantial expertise in extracting data via APIs, SQL, and in developing data pipelines for ETL processes. My preferred tools for these ETL processes are Python and Pentaho. Check this repository for an example: 
 
 - [ETL](https://github.com/marcilioduarte/portfolio-etl-automation)
 
@@ -22,10 +22,10 @@ and here are a few things about me:
 
 More to come on this area.
 
-🤖 One other thing about me is that recently I've developed a strong competency in building automation tools, particularly in creating robust web scraping bots for various functions, such as data downloading and inputting data on websites. This experience has significantly expanded my skillset in automation and data handling. This project is also here on github: 
+🤖 One other thing about me is that recently I've developed a strong competency in building automation tools, particularly in creating robust web scraping bots for various functions, such as data downloading and inputting data on websites. The project bellow is an example: 
 - [Automation bot](https://github.com/marcilioduarte/portfolio-web-automation)
 
-🌱 Staying true to the ever-evolving nature of the technology field, I'm always eager to study and open to learning new skills and technologies. For example, Right now I am currently broadening my expertise by learning Java, CSS, and HTML. 
+🌱 Staying true to the ever-evolving nature of the technology field, I'm always eager to study and open to learning new skills and technologies. For example, I am currently broadening my expertise by learning Java, CSS, and HTML. 
 
 👀 Regarding my personal skills, I'm a very communicative and hard-working person. Never giving up, paying attention to details, and always trying new ways to solve problems are a big part of who I am as a professional.
 
