@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://i.ibb.co/Fzvg1dK/Banner-para-Linkedin-Tecnologia-em-Preto.png" alt="Banner para Linkedin Tecnologia em Preto" />
+  <img width="100%" src="https://github.com/marcilioduarte/marcilioduarte/blob/main/img-github.png" alt="Imagem do GitHub"/>
 </p>
 
 # **👋 Hi, I’m Marcilio...**
