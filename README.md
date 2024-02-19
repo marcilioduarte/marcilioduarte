@@ -18,18 +18,17 @@ and here are a few things about me:
 
 These projects demonstrate my ability to handle complex data science tasks, from pre-processing to model development and deployment. More to come on this area.
 
-🤖 One other thing about me is that recently I've developed a strong competency in building automation tools, particularly in creating robust web scraping bots for various functions, such as data downloading and inputting data on websites. This experience has significantly expanded my skillset in automation and data handling. This project is also here on github: https://github.com/marcilioduarte/portfolio-web-automation
+🤖 One other thing about me is that recently I've developed a strong competency in building automation tools, particularly in creating robust web scraping bots for various functions, such as data downloading and inputting data on websites. This experience has significantly expanded my skillset in automation and data handling. This project is also here on github: 
+- [Automation bot](https://github.com/marcilioduarte/portfolio-web-automation)
 
 🌱 Staying true to the ever-evolving nature of the technology field, I'm always eager to study and open to learning new skills and technologies. For example, Right now I am currently broadening my expertise by learning Java, CSS, and HTML. 
 
 👀 Regarding my personal skills, I'm a very communicative and hard-working person. Never giving up, paying attention to details, and always trying new ways to solve problems are a big part of who I am as a professional.
 
-📫 If you're interested in my work or wish to collaborate, please reach me at https://linkedin.com/in/marcilioduarte98.
-
 ## Stats:
 
 ![Seus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcilioduarte&show_icons=true) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilioduarte&layout=compact)
 
-## Contatos:
+## 📫If you're interested in my work or wish to collaborate, please reach me at:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/marcilioduarte98)](https://linkedin.com/in/marcilioduarte98) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@marcilio.dfn)](https://medium.com/@marcilio.dfn) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/marcilioduarte)](https://www.kaggle.com/marcilioduarte) [![Hugging Face Badge](https://img.shields.io/badge/-Hugging_Face-yellow?style=flat-square&logo=HuggingFace&logoColor=white&link=https://huggingface.co/marcilioduarte)](https://huggingface.co/marcilioduarte)
