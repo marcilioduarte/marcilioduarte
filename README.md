@@ -20,7 +20,7 @@ and here are a few things about me:
 - [California Housing Prices - Manual Pipeline and Grid Search](https://www.kaggle.com/code/marcilioduarte/cali-h-p-lr-dt-and-rf-manual-pipe-and-grid)
 - [Data Science and Analytics Portfolio](https://github.com/marcilioduarte/portfolio-data-science-and-analytics/tree/main/completed)
 
-These projects demonstrate my ability to handle complex data science tasks, from pre-processing to model development and deployment. More to come on this area.
+More to come on this area.
 
 🤖 One other thing about me is that recently I've developed a strong competency in building automation tools, particularly in creating robust web scraping bots for various functions, such as data downloading and inputting data on websites. This experience has significantly expanded my skillset in automation and data handling. This project is also here on github: 
 - [Automation bot](https://github.com/marcilioduarte/portfolio-web-automation)
