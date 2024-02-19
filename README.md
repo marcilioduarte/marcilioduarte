@@ -1,4 +1,6 @@
-👋 Hi, I’m @marcilioduarte. I hold a degree in economics and I'm currently working as a Mid-Level Data Analyst while specializing in Data Science as a post-graduate student and here are a few things about me:
+👋 Hi, I’m Marcilio and here are a few things about me:
+
+🧑‍🎓 I hold a degree in economics and I'm currently working as a Mid-Level Data Analyst while specializing in Data Science as a post-graduate student.
 
 👨🏾‍💻 Although I'm a Data Analyst/Scientist, my professional and academic experiences have provided me with a rich background in data engineering tasks. I have substantial expertise in extracting data via APIs, SQL, and in developing data pipelines for ETL processes. I frequently work with databases like MongoDB and Dbeaver (PostgreSQL) to create comprehensive star schemas, including stages, data marts, and fact tables. My preferred tools for these ETL processes are Python and Pentaho. Check this repository for an example: 
 
@@ -30,11 +32,7 @@ These projects demonstrate my ability to handle complex data science tasks, from
 
 ## Stats:
 
-![Seus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcilioduarte&show_icons=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilioduarte&layout=compact)
-
-![Visitantes](https://visitor-badge.glitch.me/badge?page_id=marcilioduarte.marcilioduarte)
+![Seus GitHub stats](https://github-readme-stats.vercel.app/api?username=marcilioduarte&show_icons=true) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilioduarte&layout=compact)
 
 ## Contatos:
 
