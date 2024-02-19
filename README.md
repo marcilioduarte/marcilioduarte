@@ -1,3 +1,5 @@
+![👋 Hi, I’m Marcilio](https://i.ibb.co/Fzvg1dK/Banner-para-Linkedin-Tecnologia-em-Preto.png)
+
 # **👋 Hi, I’m Marcilio...**
 
 and here are a few things about me:
