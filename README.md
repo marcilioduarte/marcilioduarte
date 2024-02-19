@@ -8,9 +8,9 @@
 
 🔍 As for my data science projects, you can check my DS portfolio on Hugging Face, Kaggle and GitHub:
 
-- [Credit Worthiness Risk Classification](https://huggingface.co/spaces/marcilioduarte/Credit-Worthiness-Risk-Classification) - Um projeto de classificação de risco de crédito hospedado no Hugging Face.
-- [California Housing Prices - Manual Pipeline and Grid Search](https://www.kaggle.com/code/marcilioduarte/cali-h-p-lr-dt-and-rf-manual-pipe-and-grid) - Análise e modelagem de preços de imóveis na Califórnia, com pipeline manual e busca em grade, no Kaggle.
-- [Data Science and Analytics Portfolio](https://github.com/marcilioduarte/portfolio-data-science-and-analytics/tree/main/completed) - Meu portfólio de projetos completos de Data Science e Analytics no GitHub.
+- [Credit Worthiness Risk Classification](https://huggingface.co/spaces/marcilioduarte/Credit-Worthiness-Risk-Classification)
+- [California Housing Prices - Manual Pipeline and Grid Search](https://www.kaggle.com/code/marcilioduarte/cali-h-p-lr-dt-and-rf-manual-pipe-and-grid)
+- [Data Science and Analytics Portfolio](https://github.com/marcilioduarte/portfolio-data-science-and-analytics/tree/main/completed)
 
 These projects demonstrate my ability to handle complex data science tasks, from pre-processing to model development and deployment. More to come on this area.
 
@@ -24,9 +24,9 @@ These projects demonstrate my ability to handle complex data science tasks, from
 
 ## Meus principais repositórios:
 
-- [Data Science and Analytics Portfolio](https://github.com/marcilioduarte/portfolio-data-science-and-analytics/tree/main/completed) - Projetos de Data Science e Analytics.
-- [Web Automation Portfolio](https://github.com/marcilioduarte/portfolio-web-automation) - Automação web e bots de scraping.
-- [ETL Automation Portfolio](https://github.com/marcilioduarte/portfolio-etl-automation) - Automação de processos ETL.
+- [Data Science and Analytics Portfolio](https://github.com/marcilioduarte/portfolio-data-science-and-analytics/tree/main/completed)
+- [Web Automation Portfolio](https://github.com/marcilioduarte/portfolio-web-automation)
+- [ETL Automation Portfolio](https://github.com/marcilioduarte/portfolio-etl-automation)
 
 ## Stats:
 
