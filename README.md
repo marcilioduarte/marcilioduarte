@@ -1,6 +1,7 @@
 <p align="center">
   <img width="100%" src="https://i.ibb.co/Fzvg1dK/Banner-para-Linkedin-Tecnologia-em-Preto.png" alt="Banner para Linkedin Tecnologia em Preto" />
 </p>
+
 # **👋 Hi, I’m Marcilio...**
 
 and here are a few things about me:
