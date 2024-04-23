@@ -6,7 +6,7 @@
 
 and here are a few things about me:
 
-🧑‍🎓 I hold a degree in economics and I'm currently working as a Mid-Level Data Analyst while specializing in Data Science as a post-graduate student.
+🧑‍🎓 I hold a bachelor's degree in Economics and a postgraduate qualification in Data Science. Currently, I am employed as a Mid-Level Data Analyst.
 
 👨🏾‍💻 Although I'm a Data Analyst/Scientist, my professional and academic experiences have provided me with a rich background in data engineering tasks. I have substantial expertise in extracting data via APIs, SQL, and in developing data pipelines for ETL processes. My preferred tools for these ETL processes are Python and Pentaho. Check this repository for an example: 
 
