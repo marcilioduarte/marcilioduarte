@@ -46,8 +46,8 @@ Today, I work on end-to-end data solutions, from data extraction and ETL orchest
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcilioduarte&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcilioduarte&layout=compact)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcilioduarte&theme=default)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcilioduarte&theme=default)
 
 ## Contact
 
