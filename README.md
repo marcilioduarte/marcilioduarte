@@ -44,11 +44,6 @@ Today, I work on end-to-end data solutions, from data extraction and ETL orchest
 - **AI/LLM Tools:** Codex (IDE), Lovable, Azure AI Foundry, Google AI Studio, LLM APIs (including Gemini API)
 - **Cloud & Platforms:** Google Cloud (Gemini API, Compute Engine, BigQuery), Supabase, Microsoft Fabric
 
-## GitHub Stats
-
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marcilioduarte&theme=default)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marcilioduarte&theme=default)
-
 ## Contact
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/marcilioduarte98)](https://linkedin.com/in/marcilioduarte98)
