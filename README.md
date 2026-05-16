@@ -39,9 +39,8 @@ Today, I work on end-to-end data solutions, from data extraction and ETL orchest
 ## Tech stack
 
 - **Languages:** Python, SQL
-- **Data/ML:** pandas, scikit-learn, Jupyter, Gradio
 - **ETL/BI:** ETL orchestration, Pentaho, Power BI
-- **AI/LLM Tools:** Codex (IDE), Lovable, Azure AI Foundry, Google AI Studio, LLM APIs (including Gemini API)
+- **LLM Tools:** Codex (IDE), Lovable, Azure AI Foundry, Google AI Studio, LLM APIs
 - **Cloud & Platforms:** Google Cloud (Gemini API, Compute Engine, BigQuery), Supabase, Microsoft Fabric
 
 ## Contact
